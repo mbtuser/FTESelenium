@@ -1,1 +1,1 @@
-org.example
+opentext.sanity
